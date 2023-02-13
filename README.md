@@ -1,2 +1,2 @@
-# first-poject
+# first-project
 my first test project
